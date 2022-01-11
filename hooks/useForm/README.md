@@ -1,6 +1,6 @@
 # useFormInputChange Hook
 
-**Ejemnplo de uso: **
+**Ejemnplo de uso :**
 
 ```javascript
 
@@ -14,5 +14,5 @@
 
 ```
 
-> **NOTA** ```useFormInputChange() /* Recibe un state vacio por defecto y retorna un array  */``` . 
+> **NOTA** ```useFormInputChange() /* Recibe un objeto con propiedades con valores vacios por defecto y retorna un array [ formValues, handleInputChange, reset ]   */``` . 
 
